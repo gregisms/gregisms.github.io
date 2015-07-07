@@ -1,8 +1,8 @@
 permalink: /:categories/:title.html
 url: "http://gregisms.github.io/"
-full_name: "Greg"
-first_name: "Greg"
-last_name: "Last Name"
+full_name: "Gregisms"
+first_name: "Gregisms"
+last_name: ""
 blog_title: "Gregisms "
 author_img_name_path: "/images/users/user.jpg"
 disqus_shortname: "gregisms"
