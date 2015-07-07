@@ -1,14 +1,17 @@
 ---
 layout: blog
-title: Here is the title of the post
+title: Villa Guesthouse
 category: blog
 tags: [tags for the post, is here]  
-summery: Here is a summary of the post
-image: /images/blog/blogging-again.png
+summery: Hanging out in Samsen, Bangkok
+image: https://s3-ap-southeast-1.amazonaws.com/gregisms/Ban+Phan+Thom%2C+Bangkok+-+Soi+Samsen+2%2C+15+June+2015/gregisms+-+5.jpg
 ---
 
-This is a template with masonry to get the theme
-
+Found this quant teak guesthouse that was tucked away down an alley. 
+image: https://s3-ap-southeast-1.amazonaws.com/gregisms/Ban+Phan+Thom%2C+Bangkok+-+Soi+Samsen+2%2C+15+June+2015/gregisms+-+1.jpg
+image: https://s3-ap-southeast-1.amazonaws.com/gregisms/Ban+Phan+Thom%2C+Bangkok+-+Soi+Samsen+2%2C+15+June+2015/gregisms+-+2.jpg
+image: https://s3-ap-southeast-1.amazonaws.com/gregisms/Ban+Phan+Thom%2C+Bangkok+-+Soi+Samsen+2%2C+15+June+2015/gregisms+-+3.jpg
+image: https://s3-ap-southeast-1.amazonaws.com/gregisms/Ban+Phan+Thom%2C+Bangkok+-+Soi+Samsen+2%2C+15+June+2015/gregisms+-+4.jpg
 ```
 git clone https://github.com/pasindud/jekyll-masonry-theme
 ```
